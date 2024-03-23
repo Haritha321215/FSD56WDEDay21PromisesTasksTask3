@@ -1,0 +1,23 @@
+body{
+  border: solid 2px rgb(203, 203, 238);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;  
+}
+.header1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic; 
+  font-weight: bold; 
+  color: blue;
+}
+.header2{
+  font-style: italic;
+  color:orange;
+}
+.img-fluid{
+  height:400px;
+  width:500px;
+}
+.btn{
+  font-style: italic;
+}
